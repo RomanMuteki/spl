@@ -1,0 +1,58 @@
+2024-12-16 07:28:28,351 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/b
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/c
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/d
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/e
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/f
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/g
+2024-12-16 07:28:43,845 - romik - Создан файл: /home/romik/hws/sandbox/h
+2024-12-16 07:28:51,690 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-16 07:28:51,690 - romik - Удалён файл: /home/romik/hws/sandbox/b
+2024-12-16 07:28:51,690 - romik - Удалён файл: /home/romik/hws/sandbox/c
+2024-12-16 07:29:02,103 - romik - Создана папка: /home/romik/hws/sandbox/i
+2024-12-16 07:29:20,089 - romik - Создан файл: /home/romik/hws/sandbox/i/j
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/k
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/l
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/m
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/n
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/o
+2024-12-16 07:29:20,090 - romik - Создан файл: /home/romik/hws/sandbox/i/p
+2024-12-16 11:26:01,867 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-16 11:32:32,188 - romik - Удалён файл: /home/romik/hws/sandbox/d
+2024-12-16 11:32:32,189 - romik - Удалён файл: /home/romik/hws/sandbox/e
+2024-12-16 11:32:32,189 - romik - Удалён файл: /home/romik/hws/sandbox/f
+2024-12-16 11:32:53,230 - romik - Создан файл: /home/romik/hws/sandbox/a.txt
+2024-12-16 11:32:53,230 - romik - Создан файл: /home/romik/hws/sandbox/b.png
+2024-12-16 11:32:53,230 - romik - Создан файл: /home/romik/hws/sandbox/c.jpg
+2024-12-16 11:32:53,230 - romik - Создан файл: /home/romik/hws/sandbox/d.cpp
+2024-12-16 11:33:05,481 - romik - Создана папка: /home/romik/hws/sandbox/e
+2024-12-16 11:52:39,059 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-16 11:53:14,545 - romik - Создан файл: /home/romik/hws/sandbox/ab.txt
+2024-12-16 11:53:14,545 - romik - Создан файл: /home/romik/hws/sandbox/bc.png
+2024-12-16 11:53:23,151 - romik - Удалён файл: /home/romik/hws/sandbox/d.cpp
+2024-12-17 08:44:22,998 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-17 08:44:37,718 - romik - Удалён файл: /home/romik/hws/sandbox/a.txt
+2024-12-17 08:44:56,455 - romik - Удалена папка: /home/romik/hws/sandbox/e
+2024-12-17 08:46:08,159 - root - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-17 08:46:14,319 - root - Удалён файл: /home/romik/hws/sandbox/ab.txt
+2024-12-17 08:46:34,717 - root - Удалён файл: /home/romik/hws/sandbox/b.png
+2024-12-17 08:47:03,364 - root - Удалён файл: /home/romik/hws/sandbox/bc.png
+2024-12-21 11:07:15,680 - romik - Запуск мониторинга папки: /home/romik/sem3
+2024-12-21 11:19:33,917 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:20:19,770 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-21 11:20:22,697 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-21 11:23:12,774 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:23:17,473 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-21 11:23:19,336 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-21 11:24:30,717 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:24:37,514 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-21 11:24:39,016 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-21 11:27:24,492 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:27:29,175 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-21 11:27:31,496 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-21 11:28:15,134 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:28:18,978 - romik - Создан файл: /home/romik/hws/sandbox/a
+2024-12-21 11:28:20,434 - romik - Удалён файл: /home/romik/hws/sandbox/a
+2024-12-21 11:47:31,287 - romik - Запуск мониторинга папки: /home/romik/hws/sandbox
+2024-12-21 11:47:52,306 - romik - Создан файл: /home/romik/hws/sandbox/b
